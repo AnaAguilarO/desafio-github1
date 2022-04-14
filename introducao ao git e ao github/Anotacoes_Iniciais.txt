@@ -1,0 +1,23 @@
+Anotações Iniciais 
+
+- iniciar o git
+- iniciar versionamento
+- criar commit
+
+Alguns Comandos
+
+- cd - cd .. --> para navegar entre as pastas/diminuir nivel
+- dir --> listar
+- ctrl+l / cls --> limpar
+- mkdir --> criar uma nova pasta
+
+- git init
+- git add
+- git commit 
+- git clone
+- git status
+- git add .
+- git push origin main
+
+
+--> sha1 - algoritimo de encriptação
