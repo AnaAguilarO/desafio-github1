@@ -1,0 +1,1 @@
+Git bash é um terminal de uso extendido ao bit 
